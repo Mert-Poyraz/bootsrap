@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(208, 189, 230);
+}
+
+.indexmenu {
+    background-color: rgb(72, 11, 129);
+    color: rgb(240, 255, 254);
+}
+.navbars {
+    background-color:rgb(131, 40, 131);
+    font-weight: bolder;
+    
+}
+.p {
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.shop {
+    background-color:rgb(72, 11, 129) ;
+    color: black;
+}
